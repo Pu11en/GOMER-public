@@ -1,0 +1,24 @@
+{
+  "files": {
+    ".github/workflows/checks.yml": "8f46b668134d015d9e56aa76184845736dc7ad07c9788d6a2e0c66e0ed01bf52",
+    ".gitignore": "3cb0299f530ae8ed4b3683ef0839a9ddecd80e4d1b02ced1fe3e4200a3709b65",
+    "ARCHITECTURE.md": "36611a3700baa98fca30997e7d3377112074b824d37a6f9af3ca138683f41c84",
+    "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "README.md": "41399e5ba88c19b438ccef20894cac290da16452ded2d702ae6a004c58324c43",
+    "SECURITY.md": "16513456a5c2f5bb752c242abcb386ce8e74f6ee27671b33215ae1d0d926b900",
+    "examples/demo-case/demo.py": "36d3e33bcd91c398b9537031ce15659bffb49e462ee62d9960446d8f08d28a05",
+    "examples/demo-case/input.json": "bf22e2e23cec539f7c558283e6032cbb41ac28dbdc6fb29902ae77cdef3f0d00",
+    "examples/demo-case/output/packet.json": "cf3c0ab5f1e2ffad744eefac3496c1f0b7195a944b3083d0b7ffcd6736709ed8",
+    "examples/demo-case/output/report.html": "65322d02384caae0536667493027e16efa5042cf6bcaaee14b54723ec186c452",
+    "scripts/answer_packet.py": "3f508e2be019648d0c856d8fc2d789b101af65bc0cf84fcf0abb92e1b96fab69",
+    "scripts/correction_engine.py": "e950e8edf9734d67411b086c258ceeb38ef2a49b843ddb8a00f2ba658813bfce",
+    "scripts/correction_rules.py": "06d48bcf71e87091524a00080d64584cd28d643d972f6e18f878e7e84b6a2274",
+    "scripts/deliverables.py": "67541c31a0087c74bce9f83f8fc80c0ab7b634571daa3289c7b4b6f4623c55d1",
+    "scripts/signal_story.py": "aa237a98c32c2003d9f3397a5bbf5c1ffa27e61a6dc3c3f6c9442b9e434ecdaf",
+    "scripts/signal_story_video.py": "6dd0a80eeeb5c8e27d8f53da5d7e0f3de6ecd1d246d21bdebe63344e563289df",
+    "scripts/trends.py": "4e31e6d353bf1be73d962f07e360be1617f55ddec99583c263b4fcd230ac73cd",
+    "tests/test_demo.py": "9097d78e9f60c6864a4e72aab23415e4d099830383b7e0d4ec17d6a3ecc800f0"
+  },
+  "schema_version": 1,
+  "source_commit": "ddaadd59eefbf7e5d2885ac60c462c1c1c83a8bf"
+}

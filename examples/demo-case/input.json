@@ -1,0 +1,12 @@
+{
+  "case": "Synthetic Demo Case",
+  "question": "Build a synthetic Signal & Story report.",
+  "results_date": "2030-01-15",
+  "rows": [
+    {"resource_id": "demo-a-old", "name": "Synthetic Alpha", "code": "alpha", "system": "demo", "numeric_value": 5, "unit": "u", "date": "2030-01-01", "status": "final", "reference_low": 4, "reference_high": 10},
+    {"resource_id": "demo-a-new", "name": "Synthetic Alpha", "code": "alpha", "system": "demo", "numeric_value": 7, "unit": "u", "date": "2030-01-15", "status": "final", "reference_low": 4, "reference_high": 10},
+    {"resource_id": "demo-b-old", "name": "Synthetic Beta", "code": "beta", "system": "demo", "numeric_value": 80, "unit": "unit-a", "date": "2030-01-02", "status": "final"},
+    {"resource_id": "demo-b-new", "name": "Synthetic Beta", "code": "beta", "system": "demo", "numeric_value": 1.1, "unit": "unit-b", "date": "2030-01-15", "status": "final"},
+    {"resource_id": "demo-preliminary", "name": "Synthetic Preliminary", "code": "preliminary", "system": "demo", "numeric_value": 99, "unit": "u", "date": "2030-01-15", "status": "preliminary"}
+  ]
+}
